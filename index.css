@@ -1,0 +1,7 @@
+.layout{
+    display: flex;
+    flex-wrap: wrap;
+}
+.layout div {
+    margin: 0 10px;
+}
